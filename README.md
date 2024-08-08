@@ -19,3 +19,5 @@
 cd ~/environment/class-ci/docs/workshop
 ./cleanup-aws.sh
 ```
+
+hello
